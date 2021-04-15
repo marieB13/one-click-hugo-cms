@@ -1,35 +1,31 @@
 ---
-title: YO LES POTOS
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: NOUVEAU  CENTRE EQUESTRE
+subtitle: Le club s'agrandit, une partie Select s'ajoute et le club est
+  desormais réparti en deux
+image: img/elegant-girl-in-farm-wiith-horse.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Pourquoi ce choix ?
+  text: Nous avons tous simplement voulu apporter un confort supplémentaire aux
+    propriétaires et professionnels qui s'entrainent chez nous. En séparant en
+    deux notre centre équestre nous apportons une tranquilité et un bien-être
+    pour les plus aguérri qui leur permet desormais de s'entrainer à l'écart
+    avec le matériel adéquat, augmentant donc le niveau de leurs entrainements
+    qui étaient avant mélangé avec les pratiquants loisirs.
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Notre nouvelle offre
+  text: Un nouvelle abonnement est proposé aux professionnels et propriétaires,
+    leurs accordant de nouveaux avantages et notamment la réservation en ligne
+    des créneaux horaires d'entrainements solo ou en groupe sur le calendrier.
+    ainsi que des box séparer, un clubhouse, des équipements d'entretien mis à
+    disposition, une surveillance vidéo des box s et bien plus encore.
 products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: img/icons-facebook.svg
+    text: Notre groupe facebook dédié à ce nouveau club vous permettera d'échanger
+      avec les autres professionnels et propriétaires
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Nos valeurs
+  text: L'excellence sera mis à l'honneur dans la nouvelle partie pro du centre,
+    nous accorderons la même importance à faire progresser nos novices afin qu'à
+    leur tours ils puissent atteindre un niveau qui leur permettera d'integrer
+    la partie Select de notre centre.
 ---
